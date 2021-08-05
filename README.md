@@ -5,4 +5,4 @@
 ### The length of each columns represent the value of each element. These lengths are generated randomly. At the end, all columns will be sorted in increasing order.
 ### Press the Play button to start sorting visualisation, Pause button to pause at that frame, and Start New button to start with new set of randomized columns. 
 
-# Link To the website: https://bsattam.github.io/Sorting-Algorithm-Visualizer
+### Link To the website: https://bsattam.github.io/Sorting-Algorithm-Visualizer
