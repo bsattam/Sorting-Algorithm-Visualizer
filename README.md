@@ -1,8 +1,21 @@
-# Sorting-Algorithm-Visualizer
-### This website is made using HTML, CSS and Javascript. Bootstrap is used for UI. 
-### This helps in visualizing the 5 most common sorting algorithms, ie Bubble Sort, Insertion Sort, Selection Sort, Quick Sort and Merge Sort.  
-### User can select the number of elements. 4 available options are 20, 50, 100 or 200 elements
-### The length of each columns represent the value of each element. These lengths are generated randomly. At the end, all columns will be sorted in increasing order.
-### Press the Play button to start sorting visualisation, Pause button to pause at that frame, and Start New button to start with new set of randomized columns. 
+<img src = "https://github.com/bsattam/Sorting-Algorithm-Visualizer/blob/main/Sorting%20Algo%20Vis%20Github%20Images/sorting-gif.gif">
+<h3 align = "center">Sorting Algorithm Visualizer</h3>
 
-### Link To the website: https://bsattam.github.io/Sorting-Algorithm-Visualizer
+## Motivation
+I was learning different Sorting Algorithms, and wanted to Animate them graphically for better visualization, using my Webdev knowledge.
+
+## Features
+- Option to select from different sorting algorithms
+- Option to select number of elements
+- Pause, Resume or Restart the animation
+
+## Future Plans
+- Adding more sorting algorithms
+
+## Feedback
+
+If you have any feedback, please reach out to me at bsattam@gmail.com
+
+## License
+
+[GPL](https://choosealicense.com/licenses/gpl-3.0/)
