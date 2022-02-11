@@ -1,4 +1,4 @@
-<img src = "https://github.com/bsattam/Sorting-Algorithm-Visualizer/blob/main/Sorting%20Algo%20Vis%20Github%20Images/sorting-gif.gif">
+<img src = "https://github.com/bsattam/Sorting-Algorithm-Visualizer/blob/main/Sorting%20Algo%20Vis%20Github%20Images/sorting-gif.gif" width = "90%">
 <h3 align = "center">Sorting Algorithm Visualizer</h3>
 
 ## Motivation
